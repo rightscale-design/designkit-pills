@@ -24,7 +24,7 @@ npm i designkit-pills
 ```css
 /*
 //
-// Designkit-Pills
+// designkit-pills
 // --------------------------------------------------
 */
 .simple_pill, .thumb_pill {

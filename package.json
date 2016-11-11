@@ -1,14 +1,14 @@
 {
   "name": "designkit-pills",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Sass module for css pills.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rightscale-design/designkit-pills.git"
   },
   "author": {
-    "name": "Jason Melgoza",
-    "email": "jason@rightscale.com"
+    "name": "Artur Janas",
+    "email": "artur.janas@rightscale.com"
   },
   "main": "css/designkit-pills.css",
   "style": "css/designkit-pills.css",
