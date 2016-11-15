@@ -11,11 +11,11 @@ npm i designkit-pills
 ```html
 
 <div class="simple_pill">
-  <i></i>thumb pill
+  <i></i>simple pill
 </div>
 
 <div class="thumb_pill added remove">
-  <i></i>thumb pill
+  <i></i>simple pill
 </div>
 ```
 
